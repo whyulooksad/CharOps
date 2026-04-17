@@ -1,0 +1,9 @@
+/home/stw/tools/charops/build/CMakeFiles/tools.dir
+/home/stw/tools/charops/build/CMakeFiles/package.dir
+/home/stw/tools/charops/build/CMakeFiles/package_source.dir
+/home/stw/tools/charops/build/CMakeFiles/edit_cache.dir
+/home/stw/tools/charops/build/CMakeFiles/rebuild_cache.dir
+/home/stw/tools/charops/build/_deps/cli11-build/CMakeFiles/package.dir
+/home/stw/tools/charops/build/_deps/cli11-build/CMakeFiles/package_source.dir
+/home/stw/tools/charops/build/_deps/cli11-build/CMakeFiles/edit_cache.dir
+/home/stw/tools/charops/build/_deps/cli11-build/CMakeFiles/rebuild_cache.dir

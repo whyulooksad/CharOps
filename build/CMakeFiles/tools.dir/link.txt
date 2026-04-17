@@ -1,0 +1,1 @@
+/usr/bin/g++  -O3  -static -s CMakeFiles/tools.dir/src/main.cpp.o -o tools 
